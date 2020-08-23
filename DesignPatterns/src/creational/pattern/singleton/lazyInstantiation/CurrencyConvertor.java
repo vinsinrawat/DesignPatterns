@@ -1,4 +1,4 @@
-package creational.pattern.singleton.eagerInstantiation;
+package creational.pattern.singleton.lazyInstantiation;
 
 public class CurrencyConvertor {
 
